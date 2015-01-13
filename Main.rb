@@ -1,8 +1,8 @@
-#warns if input is not valid
+#warns if input for number is not valid
 class InvalidInput < StandardError
 end
 
-#warns if position is not valid
+#warns if input for position is not valid
 class InvalidPosition < StandardError
 end
 
